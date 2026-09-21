@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahithineela077/leethub/tree/master/0101-symmetric-tree) |
 | [0654-maximum-binary-tree](https://github.com/sahithineela077/leethub/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/sahithineela077/leethub/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahithineela077/leethub/tree/master/0101-symmetric-tree) |
+| [0968-binary-tree-cameras](https://github.com/sahithineela077/leethub/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahithineela077/leethub/tree/master/0101-symmetric-tree) |
 | [0654-maximum-binary-tree](https://github.com/sahithineela077/leethub/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/sahithineela077/leethub/tree/master/0968-binary-tree-cameras) |
 ## Array
 |  |
 | ------- |
@@ -39,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/sahithineela077/leethub/tree/master/0654-maximum-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/sahithineela077/leethub/tree/master/0968-binary-tree-cameras) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/sahithineela077/leethub/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
